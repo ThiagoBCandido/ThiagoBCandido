@@ -146,11 +146,18 @@ Tecnologias utilizadas:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ThiagoBCandido&theme=tokyonight&hide_border=false&border_radius=8&locale=pt_BR)
+<img height="180em" src="https://streak-stats.demolab.com?user=ThiagoBCandido&theme=tokyonight&hide_border=false&border_radius=8&locale=pt_BR" />
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoBCandido&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8)
+<br/>
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBCandido&layout=compact&theme=tokyonight&hide_border=false&border_radius=8)
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoBCandido&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoBCandido&theme=tokyonight" />
+
+<br/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoBCandido&theme=tokyonight" />
 
 </div>
 
@@ -160,9 +167,13 @@ Tecnologias utilizadas:
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ThiagoBCandido-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoBCandido)
+<a href="https://github.com/ThiagoBCandido" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-ThiagoBCandido-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago%20Barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE-SEU-LINKEDIN-AQUI)
+<a href="https://www.linkedin.com/in/thiago-barbosadev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Thiago%20Barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
