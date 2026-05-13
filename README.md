@@ -75,6 +75,11 @@ Atualmente sigo evoluindo através de projetos práticos, buscando aplicar boas 
 ---
 
 ## Projetos em destaque
+### À La Carte
+
+Em breve!
+
+---
 
 ### Notes
 
