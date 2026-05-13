@@ -1,8 +1,10 @@
 # Olá, eu sou o Thiago Barbosa Candido 👋
 
-Sou formado em **Ciência da Computação** e atuo como **Desenvolvedor Full-Stack**, com foco na criação de aplicações web modernas, organizadas e funcionais.
+Sou formado em **Ciência da Computação** e atuo como **Desenvolvedor Full-Stack**, com foco na criação de aplicações web modernas, organizadas, funcionais e escaláveis.
 
-Tenho experiência com desenvolvimento front-end e back-end, utilizando tecnologias como **Angular**, **Java com Spring Boot**, **PostgreSQL**, **SQL**, **TypeScript**, **HTML**, **CSS**, **Tailwind CSS** e **Git**.
+Tenho experiência com desenvolvimento **front-end** e **back-end**, utilizando tecnologias como **Angular**, **Java com Spring Boot**, **PostgreSQL**, **SQL**, **TypeScript**, **HTML**, **CSS**, **Tailwind CSS** e **Git**.
+
+Atualmente sigo evoluindo através de projetos práticos, buscando aplicar boas práticas de desenvolvimento, organização de código, APIs REST, banco de dados e interfaces modernas.
 
 ---
 
@@ -29,15 +31,141 @@ Tenho experiência com desenvolvimento front-end e back-end, utilizando tecnolog
 
 ## Principais conhecimentos
 
-```text
-Front-end:
-Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, responsividade e componentização.
+### Front-end
 
-Back-end:
-Java, Spring Boot, APIs REST, autenticação, regras de negócio e integração com banco de dados.
+- Angular
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+- Responsividade
+- Componentização
+- Consumo de APIs REST
 
-Banco de dados:
-PostgreSQL, MySQL, SQL, modelagem básica, consultas e persistência de dados.
+### Back-end
 
-Ferramentas:
-Git, GitHub, VS Code, Postman, pgAdmin, Figma e Docker.
+- Java
+- Spring Boot
+- APIs REST
+- Autenticação
+- Regras de negócio
+- Integração com banco de dados
+- Organização em camadas
+
+### Banco de dados
+
+- PostgreSQL
+- MySQL
+- SQL
+- Modelagem básica
+- Consultas
+- Persistência de dados
+
+### Ferramentas
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- pgAdmin
+- Figma
+- Docker
+
+---
+
+## Projetos em destaque
+
+### Notes
+
+Sistema web de organização de tarefas, prazos e anotações, desenvolvido como projeto pessoal com foco em uso corporativo.
+
+O projeto conta com funcionalidades de criação, organização e gerenciamento de notas, além de integração com calendário e controle de prioridades.
+
+Principais funcionalidades:
+
+- Cadastro e login de usuários
+- Criação, edição e exclusão de anotações
+- Definição de prioridade das notas
+- Integração com calendário
+- Marcação de tarefas como concluídas
+- Lixeira para notas removidas
+- Interface responsiva
+- Backend com Java e Spring Boot
+- Banco de dados PostgreSQL
+
+Tecnologias utilizadas:
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=angular,typescript,java,spring,postgres,html,css,git" />
+
+</div>
+
+---
+
+### OnlyWeather
+
+Aplicação de clima desenvolvida para consultar informações meteorológicas de forma simples, visual e objetiva.
+
+O projeto tem como objetivo apresentar dados climáticos reais através de uma interface moderna, responsiva e de fácil utilização.
+
+Principais funcionalidades:
+
+- Consulta de clima por localização
+- Interface moderna e responsiva
+- Integração com dados climáticos reais
+- Organização de componentes no front-end
+- Backend auxiliar para comunicação com API externa
+
+Tecnologias utilizadas:
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=angular,typescript,tailwind,java,spring,html,css,git" />
+
+</div>
+
+---
+
+## Atualmente estudando e aprimorando
+
+- Boas práticas com Angular
+- Java com Spring Boot
+- Arquitetura de APIs REST
+- PostgreSQL
+- Tailwind CSS
+- Docker
+- Deploy de aplicações
+- CI/CD
+- Boas práticas de Git e GitHub
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ThiagoBCandido&theme=tokyonight&hide_border=false&border_radius=8&locale=pt_BR)
+
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoBCandido&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBCandido&layout=compact&theme=tokyonight&hide_border=false&border_radius=8)
+
+</div>
+
+---
+
+## Contato
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ThiagoBCandido-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoBCandido)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago%20Barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE-SEU-LINKEDIN-AQUI)
+
+</div>
+
+---
+
+> Sempre buscando evoluir como desenvolvedor, criando projetos práticos e aprendendo novas tecnologias a cada etapa.
