@@ -169,8 +169,7 @@ Tecnologias utilizadas:
 
 <a href="https://github.com/ThiagoBCandido" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-ThiagoBCandido-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+</a><br>
 <a href="https://www.linkedin.com/in/thiago-barbosadev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Thiago%20Barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
