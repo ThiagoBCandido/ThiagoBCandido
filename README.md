@@ -1,4 +1,4 @@
-# Olá, eu sou o Thiago Barbosa Candido 👋
+# Olá, eu sou o Thiago 👋
 
 Sou formado em **Ciência da Computação** e atuo como **Desenvolvedor Full-Stack**, com foco na criação de aplicações web modernas, organizadas, funcionais e escaláveis.
 
